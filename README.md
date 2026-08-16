@@ -1,7 +1,6 @@
 # Fintech UI Test Scenarios
 
-Sanitized portfolio case study of an AI-assisted iOS UI-testing workflow designed
-and developed by **Ruslan Iusupov** for a mobile-banking product.
+AI-assisted iOS UI-testing workflow for a mobile-banking product.
 
 > This is an independent public reconstruction, not an official product
 > repository. It demonstrates the testing approach without exposing company

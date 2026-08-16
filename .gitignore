@@ -1,4 +1,7 @@
 .DS_Store
+.pytest_cache/
+__pycache__/
+*.py[cod]
 .env
 *.env
 *.log
@@ -8,4 +11,3 @@
 screens/
 results/
 artifacts/
-
