@@ -1,0 +1,9 @@
+{
+  "status": "OVERDUE",
+  "currency": "DEMO",
+  "availableAmount": 0,
+  "overdueAmount": 125,
+  "primaryActionEnabled": false,
+  "fixtureScope": "synthetic-portfolio-example"
+}
+

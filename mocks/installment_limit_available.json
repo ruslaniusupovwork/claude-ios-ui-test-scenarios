@@ -1,0 +1,9 @@
+{
+  "status": "AVAILABLE",
+  "currency": "DEMO",
+  "availableAmount": 2500,
+  "overdueAmount": 0,
+  "primaryActionEnabled": true,
+  "fixtureScope": "synthetic-portfolio-example"
+}
+

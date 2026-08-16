@@ -1,0 +1,11 @@
+.DS_Store
+.env
+*.env
+*.log
+*.mp4
+*.mov
+*.gif
+screens/
+results/
+artifacts/
+
